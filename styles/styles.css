@@ -78,42 +78,35 @@ p {
 /* Mobile Phones (portrait) */
 @media only screen and (max-width: 480px) {
     body {
-        padding: 10px;
-        min-height: 100vh;
+        padding: 50px;
     }
     
     h1 {
-        font-size: 1.4em;
-        margin: 10px 0;
+        font-size: 1.8em;
     }
     
     .profile-container {
-        margin-top: 20px;
-        max-width: 100%;
+        margin-top: 30px;
     }
     
     .profile-picture {
-        width: 60px;
-        margin-bottom: 15px;
+        width: 80px;
     }
     
     .social-link {
-        max-width: 90%;
-        width: 100%;
-        padding: 10px;
-        height: 35px;
-        margin: 10px auto 0 auto;
-        font-size: 0.9em;
+        max-width: 200px;
+        padding: 15px;
+        height: 40px;
+        margin: 15px auto 0 auto;
     }
     
     .social-icon {
-        width: 25px;
-        height: 25px;
+        width: 40px;
     }
     
     span {
-        font-size: 0.8em;
-        margin-left: 5px;
+        font-size: 1em;
+        margin-left: 8px;
     }
 }
 
@@ -151,10 +144,10 @@ p {
     }
     
     .social-icon {
-        width: 40px;
+        width: 50px;
     }
     
     span {
-        font-size: 1.2em;
+        font-size: 1.3em;
     }
 }
