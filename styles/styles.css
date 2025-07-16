@@ -54,6 +54,7 @@ h1 {
     border-radius: 50px;
     gap: 10px;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 .social-link:hover {
