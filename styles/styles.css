@@ -5,6 +5,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     min-height: 100vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -14,6 +15,7 @@ body {
     background-color: rgba(0, 0, 0, 0.823);
     padding: 20px;
     box-sizing: border-box;
+    overflow: hidden;
 }
 
 h1 {
@@ -64,6 +66,7 @@ span {
     font-size: 1.2em;
     margin-left: 10px;
     display: inline;
+    text-decoration: none;
 }
 
 .social-icon {
